@@ -1,6 +1,5 @@
-flat-ui-color-swatch
-====================
+##FlatUI Photoshop Swatch
 
-![image](http://)
+![FlatUIColors](https://raw2.github.com/dkabistan/flat-ui-color-swatch/master/screenshot.png)
 
-Flat UI Color swatches from www.flatuicolors.com
+Flat UI Color swatches from [www.flatuicolors.com](http://www.flatuicolors.com)
